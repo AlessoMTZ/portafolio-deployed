@@ -8,7 +8,7 @@ import GlobalStyles from './GlobalStyles';
 
 function App() {
   return (
-    <Router basename="/portafolio-deployed">
+    <Router basename='/portafolio-deployed'>
       <GlobalStyles />
       <Navbar />
       <Routes>
