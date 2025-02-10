@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portafolio-deployed/static/css/main.b6359c6f.css",
-    "main.js": "/portafolio-deployed/static/js/main.17d84921.js",
+    "main.js": "/portafolio-deployed/static/js/main.ac13bd16.js",
     "static/js/488.c5a7233e.chunk.js": "/portafolio-deployed/static/js/488.c5a7233e.chunk.js",
     "static/media/project1.webp": "/portafolio-deployed/static/media/project1.1b6ad62e833c03e4a1d2.webp",
     "static/media/image1.webp": "/portafolio-deployed/static/media/image1.9ef2d693d00f897d8f60.webp",
@@ -17,11 +17,11 @@
     "static/media/fira-code-latin-700.woff2": "/portafolio-deployed/static/media/fira-code-latin-700.bc9f138007593eb3ab35.woff2",
     "index.html": "/portafolio-deployed/index.html",
     "main.b6359c6f.css.map": "/portafolio-deployed/static/css/main.b6359c6f.css.map",
-    "main.17d84921.js.map": "/portafolio-deployed/static/js/main.17d84921.js.map",
+    "main.ac13bd16.js.map": "/portafolio-deployed/static/js/main.ac13bd16.js.map",
     "488.c5a7233e.chunk.js.map": "/portafolio-deployed/static/js/488.c5a7233e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6359c6f.css",
-    "static/js/main.17d84921.js"
+    "static/js/main.ac13bd16.js"
   ]
 }
