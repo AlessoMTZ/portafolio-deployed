@@ -1,0 +1,66 @@
+/* Navbar Container */
+.navbar {
+  display: flex;
+  justify-content: center; /* Centramos los elementos */
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #1f1f1f;
+  color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-family: 'Arial', sans-serif;
+}
+
+/* Logo Styling */
+.logo {
+  display: none; /* Ocultamos el logo */
+}
+
+/* Navigation Links */
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+/* Individual Link Styling */
+.nav-links li {
+  margin: 0;
+}
+
+.nav-links a {
+  color: #acc53d;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Hover Effects for Links */
+.nav-links a:hover {
+  background-color: #acc53d;
+  color: #1f1f1f;
+}
+
+/* Responsive Design for Mobile */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: center; /* Centramos los elementos en dispositivos móviles */
+  }
+
+  .nav-links {
+    flex-direction: column;
+    width: 100%;
+    padding: 1rem 0;
+  }
+
+  .nav-links a {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+}
